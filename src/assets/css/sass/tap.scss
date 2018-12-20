@@ -1,0 +1,8 @@
+.ui-tap-active {
+  tap-highlight-color: rgba(0, 0, 0, 0);
+  user-select: none;
+
+  &:active {
+    box-shadow: 0 0 0 1000px rgba(0, 0, 0, 0.1) inset;
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "development": {
+    "apiOrigin": "http://assist.dev.ngrok.ttyun.com"
+  },
+  "production": {
+    "apiOrigin": "http://shop.dev.ngrok.ttyun.com"
+  }
+}
